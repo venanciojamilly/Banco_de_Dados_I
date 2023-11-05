@@ -5,6 +5,6 @@ Projetos realizados na disciplina de Banco de Dados I , na Universidade Federal 
 Equipe:
 
 Anna Beatriz Soares Furtado
-Jamilly Venâncio da Silva   
+ Jamilly Venâncio da Silva   
 Luana Bringel Leite         
 Vitória Maria do Nascimento 
